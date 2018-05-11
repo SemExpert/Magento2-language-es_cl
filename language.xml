@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--
+/**
+ * Magento 2 Spanish (Chile) language pack
+ *
+ * @category   Language
+ * @package    es_CL
+ * @license    http://www.opensource.org/licenses/mit-license.html  MIT License
+ * @author     SemExpert (http://www.semexpert-ecommerce.com)
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>es_CL</code>
+    <vendor>semexpert</vendor>
+    <package>es_cl</package>
+    <sort_order>10</sort_order>
+</language>

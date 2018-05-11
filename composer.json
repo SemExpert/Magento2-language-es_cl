@@ -1,0 +1,16 @@
+{
+  "name": "semexpert/magento2-language-es_cl",
+  "description": "Spanish (Chile) language pack",
+  "require": {
+    "magento/framework": "101.0.*"
+  },
+  "type": "magento2-language",
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
