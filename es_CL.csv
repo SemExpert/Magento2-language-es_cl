@@ -11973,5 +11973,5 @@
 "Status","Estado","module","Magento_Bundle"
 "Thumbnail","Miniatura","module","Magento_Bundle"
 "Type","Tipo","module","Magento_Bundle"
-"Qty.", "Cant."
-"All ", "Ver todo "
+"Qty.", "Cant.","theme","frontend/Magento/luma"
+"All ", "Ver todo ","theme","frontend/Magento/luma"
