@@ -4974,7 +4974,7 @@
 "Incl. Tax","Impuestos incl.","module","Magento_Checkout"
 "Your order number is: %1.","Su número de pedido es: %1.","module","Magento_Checkout"
 "Your order # is: <span>%1</span>.","Su nº de pedido es: <span>%1</span>.","module","Magento_Checkout"
-"We'll email you an order confirmation with details and tracking info.","Te enviaremos un email de confirmación con los detalles y información del envío.","module","Magento_Checkout"
+"We'll email you an order confirmation with details and tracking info.","Te enviaremos un email de confirmación con los detalles e información del envío.","module","Magento_Checkout"
 "Payment Transaction Failed Reminder","Recordatorio de error de transacción de pago","module","Magento_Checkout"
 "Payment Transaction Failed","Ha fallado la operación de pago","module","Magento_Checkout"
 "Reason","Razón: ","module","Magento_Checkout"
