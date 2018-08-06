@@ -6410,6 +6410,7 @@
 "Something went wrong with the subscription.","Algo fallo con la suscripción.","module","Magento_Newsletter"
 "You unsubscribed.","Ha cancelado la suscripción.","module","Magento_Newsletter"
 "Something went wrong while unsubscribing you.","Algo ha fallado al tratar de desuscribirte.","module","Magento_Newsletter"
+"This email address is already subscribed.","Este email ya está suscripto al newsletter.","module","Magento_Newsletter"
 "Sent","Enviado","module","Magento_Newsletter"
 "Cancelled","Cancelado","module","Magento_Newsletter"
 "Not Sent","No enviado","module","Magento_Newsletter"
