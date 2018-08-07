@@ -4883,6 +4883,7 @@
 "Link for Google","Enlace para Google","module","Magento_Sitemap"
 "Last Generated","Última vez que se generó","module","Magento_Sitemap"
 "Action","Acción","module","Magento_Sitemap"
+"Print receipt","Imprimir comprobante","module","Magento_Checkout"
 "Shopping Cart","Carrito","module","Magento_Checkout"
 "Invalid method: %1","Método inválido: %1","module","Magento_Checkout"
 "City","Ciudad","module","Magento_Checkout"
