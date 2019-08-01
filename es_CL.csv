@@ -11982,3 +11982,4 @@
 "Qty.", "Cant.","theme","frontend/Magento/luma"
 "All ", "Ver todo ","theme","frontend/Magento/luma"
 "Sorry, no quotes are available for this order at this time", "Lo sentimos, no hay cotizaciones disponibles para este pedido en este momento.","theme","frontend/Magento/luma"
+"We received too many requests for password resets. Please wait and try again later or contact %1.","Recibimos demasiadas solicitudes de reinicio de contraseña. Por favor espera y vuelve a intentarlo más tarde o contacta a %1.","module","Magento_Security"
